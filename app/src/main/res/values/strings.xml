@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewWithDataStore</string>
+    <string name="alertMessage">Are you sure you want to delete this bookmark?</string>
+    <string name="alertTitle">Alert</string>
+</resources>
